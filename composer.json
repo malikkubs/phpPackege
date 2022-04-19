@@ -1,0 +1,19 @@
+{
+    "name": "malikaja/tespac",
+    "description": "coba bikin packege lagi",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Malikaja\\Tespac\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Malikkubs",
+            "email": "malikkubs@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
